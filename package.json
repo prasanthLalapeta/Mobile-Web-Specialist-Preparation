@@ -1,0 +1,26 @@
+{
+  "name": "mobile-web-specialist-preparation",
+  "version": "1.0.0",
+  "description": "Guideliness and workouts for certification",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./Basic-website-layout-and-styling/Responsive-design/ -p 1337",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthLalapeta/Mobile-Web-Specialist-Preparation.git"
+  },
+  "keywords": [
+    "webspecialist"
+  ],
+  "author": "Prasanth Lalapeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasanthLalapeta/Mobile-Web-Specialist-Preparation/issues"
+  },
+  "homepage": "https://github.com/prasanthLalapeta/Mobile-Web-Specialist-Preparation#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
