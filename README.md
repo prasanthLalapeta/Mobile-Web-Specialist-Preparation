@@ -1,4 +1,4 @@
-## Mobile Web Specialist Preparation
+# Mobile Web Specialist Preparation
 
 Coming soon..
 
@@ -12,9 +12,12 @@ Run `http-server ./[yourfolder] -p 1337` - sample: `http-server ./Basic-website-
 
 ## New things i learned
 
-# From **Responsive Design**
+### From **Responsive Design**
 
 1. `<meta name="viewport" content="width=device-width, initial-scale=1">`
 2. rem vs em
 3. Modernizr
 4. flex-flow
+
+## Basic website layout and styling
+- [√] [Codelabs -> Responsive design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
