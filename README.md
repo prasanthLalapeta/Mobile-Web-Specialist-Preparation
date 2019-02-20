@@ -12,9 +12,9 @@ Run `http-server ./[yourfolder] -p 1337` - sample: `http-server ./Basic-website-
 
 ## New things i learned
 
-# From `Responsive Design`
+# From **Responsive Design**
 
-1. <meta name="viewport" content="width=device-width, initial-scale=1">
+1. `<meta name="viewport" content="width=device-width, initial-scale=1">`
 2. rem vs em
 3. Modernizr
 4. flex-flow
