@@ -24,6 +24,12 @@ Run `http-server ./[yourfolder] -p 1337` - sample: `http-server ./Basic-website-
 1. img attribute `srcset` & `size` with various widths to load different sizes of images based on screen size
 2. `picture` element and the `source` element
 
+### From **Video**
+
+1.To add a media fragment, you simply add `#t=[start_time][,end_time]` to the media URL. For example, to play the video between seconds.
+2. `canPlayType()` to find out which video formats are supported
+
 ## Basic website layout and styling
 - [√] [Codelabs -> Responsive design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
 - [√] [Codelabs -> Responsive images](https://codelabs.developers.google.com/codelabs/pwa-responsive-images/index.html?index=..%2F..dev-pwa-training#0)
+- [√] [Web Fundamentals -> Video](https://developers.google.com/web/fundamentals/media/video)
