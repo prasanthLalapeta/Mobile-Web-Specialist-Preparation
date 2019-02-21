@@ -26,3 +26,4 @@ Run `http-server ./[yourfolder] -p 1337` - sample: `http-server ./Basic-website-
 
 ## Basic website layout and styling
 - [√] [Codelabs -> Responsive design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
+- [√] [Codelabs -> Responsive images](https://codelabs.developers.google.com/codelabs/pwa-responsive-images/index.html?index=..%2F..dev-pwa-training#0)
