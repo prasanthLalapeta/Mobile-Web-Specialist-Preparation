@@ -33,3 +33,4 @@ Run `http-server ./[yourfolder] -p 1337` - sample: `http-server ./Basic-website-
 - [√] [Codelabs -> Responsive design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
 - [√] [Codelabs -> Responsive images](https://codelabs.developers.google.com/codelabs/pwa-responsive-images/index.html?index=..%2F..dev-pwa-training#0)
 - [√] [Web Fundamentals -> Video](https://developers.google.com/web/fundamentals/media/video)
+- [√] [Web Fundamentals -> Responsive Web Design Basics -> Video](https://developers.google.com/web/fundamentals/media/video)
